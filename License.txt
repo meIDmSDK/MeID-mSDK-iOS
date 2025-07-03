@@ -1,0 +1,83 @@
+PODMIENKY POUŽÍVANIA MeID mSDK
+verzia 1.0, účinnosť od 26.6.2025
+
+
+1. Všeobecné ustanovenia
+
+1.1. Ministerstvo vnútra Slovenskej republiky (ďalej len „Ministerstvo“) 
+uviedlo do používania prostriedok elektronickej identifikácie s názvom 
+Mobilné eID (ďalej aj „MeID").
+
+1.2. MeID je prostriedkom elektronickej identifikácie s úrovňou zabezpečenia 
+„pokročilá“ podľa nariadenia (EÚ) č. 910/2014 (nariadenie eIDAS). 
+Od 14.2.2025 je zapísané v evidencii autentifikačných prostriedkov podľa 
+§ 22 zákona č. 305/2013 Z. z. o elektronickej podobe výkonu pôsobnosti orgánov
+verejnej moci a o zmene a doplnení niektorých zákonov (zákon o e-Governmente).
+
+1.3. Všeobecné podmienky používania MeID sú zverejnené na stránke:
+https://meid.minv.sk/?page=terms-of-use/
+
+1.4. MeID mSDK je softvérový vývojový balík pozostávajúci zo vzorovej aplikácie
+a dokumentácie na účely integrácie MeID do natívnych mobilných aplikácií na 
+platformách Android a iOS.
+
+1.5. Cieľom MeID mSDK je poskytnúť vývojárom technický návod umožňujúci 
+jednoduchú integráciu prihlasovania používateľov prostredníctvom MeID.
+
+1.6. MeID mSDK je dostupné pre platformy iOS a Android.
+
+1.7. Pre správnu funkčnosť integrácie je potrebné, aby:
+  -  zariadenie používalo operačný systém Android (verzia 9 a vyššie) 
+     alebo iOS (verzia 17 a vyššie),
+  -  zariadenie podporovalo FIDO2 a WebAuthn,
+  -  aplikácia bola integrovaná podľa pokynov uvedených v dokumentácii MeID mSDK.
+
+1.8. MeID mSDK je poskytované bezplatne.
+
+1.9. Používaním MeID mSDK používateľ potvrdzuje, že sa oboznámil s týmito 
+podmienkami.
+
+
+2. Dostupnosť MeID mSDK
+
+2.1. MeID mSDK je možné bezplatne stiahnuť z verejného úložiska:
+https://github.com/meidmsdk
+
+
+3. Pravidlá používania MeID
+
+3.1. Ministerstvo udeľuje používateľovi nevýhradné, neprenosné a odvolateľné 
+právo používať MeID mSDK v rozsahu funkcionalít definovaných v dokumentácii.
+
+3.2. Používateľ nie je oprávnený:
+  -  poskytovať MeID mSDK na ďalšie šírenie, predaj alebo prenájom,
+  -  zverejniť alebo sprístupniť MeID mSDK na iných webových portáloch okrem 
+     oficiálneho úložiska.
+
+3.3. Používateľ je oprávnený:
+  -  upravovať alebo vytvárať odvodené diela zo vzorovej aplikácie zahrnutej 
+     v MeID mSDK,
+  -  kopírovať alebo zrkadliť časti vzorovej aplikácie za účelom vývoja 
+     vlastnej aplikácie.
+
+3.4. Každá aplikácia tretej strany, ktorá používa MeID na prihlasovanie, resp.
+identifikáciu používateľov, musí na viditeľnom mieste (minimálne v sekcii 
+„O aplikácii“ a v licenčných podmienkach) uviesť nasledovný text:
+
+Slovensky:
+„Aplikácia na identifikáciu používateľov využíva elektronický identifikačný
+prostriedok Mobilné eID, ktorý je prevádzkovaný Ministerstvom vnútra Slovenskej 
+republiky. Viac informácií o Mobilnom eID nájdete na stránke: https://meid.minv.sk“
+
+Anglicky:
+"The application uses the Mobile eID electronic identification tool, operated 
+by the Ministry of the Interior of the Slovak Republic, to identify users.
+For more information about Mobile eID, please visit: https://meid.minv.sk"
+
+4. Ochrana osobných údajov a bezpečnosť MeID
+
+4.1. Zásady ochrany osobných údajov MeID sú dostupné na stránke:
+https://meid.minv.sk/?page=privacy-policy/
+
+4.2. Zásady bezpečnosti MeID sú dostupné na stránke:
+https://meid.minv.sk/?page=basic-principles-security/
